@@ -1,9 +1,7 @@
 package main
 
-import (
-	"fmt"
+import 	"fmt"
 
-)
-
-func main() {
-	fmt.Println("maninder")
+func string() {
+	fmt.Println("String...")
+}
