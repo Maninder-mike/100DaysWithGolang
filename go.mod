@@ -8,7 +8,7 @@ require (
 	github.com/go-gl/glfw/v3.3/glfw v0.0.0-20200707082815-5321531c36a2 // indirect
 	github.com/golang/snappy v0.0.2 // indirect
 	github.com/klauspost/compress v1.11.0 // indirect
-	github.com/lib/pq v1.8.0
+	github.com/lib/pq v1.10.2
 	github.com/stretchr/testify v1.6.1 // indirect
 	go.mongodb.org/mongo-driver v1.4.1
 	golang.org/x/crypto v0.0.0-20200930160638-afb6bcd081ae // indirect
