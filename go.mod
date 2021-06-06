@@ -10,7 +10,7 @@ require (
 	github.com/klauspost/compress v1.11.0 // indirect
 	github.com/lib/pq v1.8.0
 	github.com/stretchr/testify v1.6.1 // indirect
-	go.mongodb.org/mongo-driver v1.4.1
+	go.mongodb.org/mongo-driver v1.5.3
 	golang.org/x/crypto v0.0.0-20200930160638-afb6bcd081ae // indirect
 	golang.org/x/image v0.0.0-20200927104501-e162460cd6b5 // indirect
 	golang.org/x/net v0.0.0-20200930145003-4acb6c075d10 // indirect
